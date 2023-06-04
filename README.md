@@ -10,38 +10,38 @@ In all seriousness, I've been learning Web Development for almost a year now wit
 <ul>
   <li>HTML5.</li>
   
-  <li>-CSS3.</li>
+  <li>CSS3.</li>
   
-  <li>-JavaScript.</li>
+  <li>JavaScript.</li>
 </ul>
 
 
 🌱 Currently learning 
   ---
   <ul>
-    <li>-ES6 Modules and Webpack usage.</li>
+    <li>ES6 Modules and Webpack usage.</li>
   </ul>
 
 
 🔭 Learning next 
 ---
 <ul>
-  <li>-React.</li>
+  <li>React.</li>
   
-  <li>-APIs.</li>
+  <li>APIs.</li>
   
-  <li>-MongoDB.</li>
+  <li>MongoDB.</li>
 </ul>
 
 
 💬 Other interests 
 ---
 <ul>
-  <li>-Android Development.</li>
+  <li>Android Development.</li>
   
-  <li>-Arduino.</li>
+  <li>Arduino.</li>
   
-  <li>-Esports.</li>
+  <li>Esports.</li>
 </ul>
 
 📫 sosarolliedev@gmail.com
