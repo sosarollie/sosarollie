@@ -2,7 +2,7 @@
 
 I'm Jesús, a 22 yo. Argentinian programming student and Front-end Developer that (sometimes) knows how to center a div properly.
 
-In all seriousness, I've been learning Web Development for almost a year now with the help of the folks at theodinproject.com/ and having a great time while doing so. Looking forward to keeping a steady pace and hopefully landing a job in IT in the near future.
+In all seriousness, I've been learning Web Development for almost a year now with the help of the folks at [The Odin Project](https://www.theodinproject.com) and having a great time while doing so. Looking forward to keeping a steady pace and hopefully landing a job in IT in the near future.
 
 
 📚 Stack 
