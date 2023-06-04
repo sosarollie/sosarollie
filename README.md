@@ -1,4 +1,4 @@
-### Hey there!
+### <h2 align="center"> Hey there! </h2>
 
 I'm Jesús, a 22 yo. Argentinian programming student and Front-end Developer that (sometimes) knows how to center a div properly.
 
@@ -7,36 +7,42 @@ In all seriousness, I've been learning Web Development for almost a year now wit
 
 📚 Stack 
 ---
-  -HTML5.
+<ul>
+  <li>HTML5.</li>
   
-  -CSS3.
+  <li>-CSS3.</li>
   
-  -JavaScript.
+  <li>-JavaScript.</li>
+</ul>
 
 
 🌱 Currently learning 
   ---
-   -ES6 Modules and Webpack usage.
+  <ul>
+    <li>-ES6 Modules and Webpack usage.</li>
+  </ul>
 
 
 🔭 Learning next 
 ---
-  -React.
+<ul>
+  <li>-React.</li>
   
-  -APIs.
+  <li>-APIs.</li>
   
-  -Express.
-  
-  -MongoDB.
+  <li>-MongoDB.</li>
+</ul>
 
 
 💬 Other interests 
 ---
-  -Android Development.
+<ul>
+  <li>-Android Development.</li>
   
-  -Arduino.
+  <li>-Arduino.</li>
   
-  -Esports.
+  <li>-Esports.</li>
+</ul>
 
 📫 sosarolliedev@gmail.com
 --
