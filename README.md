@@ -1,34 +1,41 @@
 ### Hey there!
 
-I'm Jesús, a 22 yo. Argentinian programming student and soon-to-be Front-end Developer that (sometimes) knows how to center a div properly.
+I'm Jesús, a 22 yo. Argentinian programming student and Front-end Developer that (sometimes) knows how to center a div properly.
 
 In all seriousness, I've been learning Web Development for almost a year now with the help of the folks at theodinproject.com/ and having a great time while doing so. Looking forward to keeping a steady pace and hopefully landing a job in IT in the near future.
 Thanks for visiting my profile!
 
-📚 Stack >
+📚 Stack 
 ---
   -HTML5.
+  
   -CSS3.
+  
   -JavaScript.
 
 
-🌱 Currently learning >
+🌱 Currently learning 
   ---
    -ES6 Modules and Webpack usage.
 
 
-🔭 Learning next >
+🔭 Learning next 
 ---
   -React.
+  
   -APIs.
+  
   -Express.
+  
   -MongoDB.
 
 
-💬 Other interests >
+💬 Other interests 
 ---
   -Android Development.
+  
   -Arduino.
+  
   -Esports.
 
 📫 sosarolliedev@gmail.com
