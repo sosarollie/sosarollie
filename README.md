@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there!
+
+I'm Jesús, a 22 yo. Argentinian programming student and soon-to-be Front-end Developer that (sometimes) knows how to center a div properly.
+In all seriousness, I've been learning Web Development for almost a year now with the help of the folks at theodinproject.com/ and having a great time while doing so. 
 
 <!--
 **sosarollie/sosarollie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
