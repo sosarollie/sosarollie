@@ -3,7 +3,7 @@
 I'm Jesús, a 22 yo. Argentinian programming student and Front-end Developer that (sometimes) knows how to center a div properly.
 
 In all seriousness, I've been learning Web Development for almost a year now with the help of the folks at theodinproject.com/ and having a great time while doing so. Looking forward to keeping a steady pace and hopefully landing a job in IT in the near future.
-Thanks for visiting my profile!
+
 
 📚 Stack 
 ---
@@ -39,7 +39,10 @@ Thanks for visiting my profile!
   -Esports.
 
 📫 sosarolliedev@gmail.com
----
+--
+
+Thanks for visiting my profile!
+--
 <!--
 **sosarollie/sosarollie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
