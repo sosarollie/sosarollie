@@ -1,6 +1,6 @@
 ### <h2 align="center"> Hey there! </h2>
 
--Hi, I'm Jesús, an Argentinian programmer currently delving into the cybersecurity field.
+-Hi, I'm Jesús, an Argentinian programmer 🇦🇷.
 
 📚 Stack 
 ---
@@ -16,18 +16,17 @@
 🌱 Currently learning 
   ---
   <ul>
-    <li>ES6 Modules and Webpack usage.</li>
+    <li>Cybersecurity basics</li>
   </ul>
 
 
 🔭 Learning next 
 ---
 <ul>
-  <li>React.</li>
+  <li>Pentesting</li>
   
-  <li>APIs.</li>
-  
-  <li>MongoDB.</li>
+  <li>Blueteaming</li>
+
 </ul>
 
 
