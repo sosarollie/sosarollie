@@ -1,6 +1,6 @@
 ### <h2 align="center"> Hey there! </h2>
 
--Hi, I'm Jesús, an Argentinian programmer 🇦🇷.
+-I'm Jesús, an Argentinian programming student 🇦🇷.
 
 📚 Stack 
 ---
