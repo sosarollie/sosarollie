@@ -10,6 +10,12 @@
   <li>CSS3.</li>
   
   <li>JavaScript.</li>
+
+  <li>Kotlin</li>
+
+  <li>Linux</li>
+
+  <li>Java</li>
 </ul>
 
 
