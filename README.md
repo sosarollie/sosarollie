@@ -45,7 +45,6 @@ I'm an Argentinian student pursuing a University-Level Programming Analyst Degre
 
 ![Cambridge C2 English](https://img.shields.io/badge/English-C2-blue?logo=googletranslate&logoColor=white)
 ![Visitors](https://komarev.com/ghpvc/?username=sosarollie&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosarollie&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sosarollie&theme=tokyonight)
 
 ---
