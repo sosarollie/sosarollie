@@ -9,7 +9,7 @@
 </p>
 
 Welcome to my GitHub profile!
-I'm an Argentinian student pursuing a University-Level Programming Analyst Degree, striving to become a Cybersecurity Professional in the near future.
+I'm an Argentinian student pursuing a Computer Science Degree, striving to become a Cybersecurity Professional in the near future.
 
 ---
 
