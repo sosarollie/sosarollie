@@ -1,6 +1,9 @@
+
 # 🟢 Hi there, I'm Jesús! 🟢
 
-![deku](https://github.com/user-attachments/assets/3bd9745c-950d-4b57-874d-733796993c89)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3bd9745c-950d-4b57-874d-733796993c89" alt="Deku GIF" width="500"/>
+</p>
 
 Welcome to my GitHub profile!
 I'm an Argentinian student pursuing a University-Level Programming Analyst Degree, striving to become a Cybersecurity Professional in the near future.
@@ -41,17 +44,29 @@ I'm an Argentinian student pursuing a University-Level Programming Analyst Degre
 
 ---
 
+## 🎓 Courses & Certifications
+
+- **Cybersecurity Introduction** – TryHackMe (Cybersecurity 101)
+- **Threat Intelligence Analyst – Foundational Level** (ArcX FTIA)
+- **Cisco Networking Basics** (Cisco Networking Academy)
+- **SOC Analyst Path** – LetsDefend (In Progress)
+
+---
+
 ## 🏅 Badges & Stats
 
-![Cambridge C2 English](https://img.shields.io/badge/English-C2-blue?logo=googletranslate&logoColor=white)
-![Visitors](https://komarev.com/ghpvc/?username=sosarollie&color=blue)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sosarollie&theme=tokyonight)
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sosarollie&theme=tokyonight" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sosarollie-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sosarollie/)
+[![Discord](https://img.shields.io/badge/Discord-1praise-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
 
 ---
 
