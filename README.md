@@ -73,7 +73,7 @@ I'm an Argentinian student pursuing a University-Level Programming Analyst Degre
         <b>Library</b>
       </a>
       <br>
-      <sub>A reading tracker project to incentivize an important habit.</sub>
+      <sub>A reading tracker to incentivize an important habit.</sub>
       <br><br>
     </td>
     <td align="center" width="220">
@@ -109,7 +109,7 @@ I'm an Argentinian student pursuing a University-Level Programming Analyst Degre
         <b>calculator</b>
       </a>
       <br>
-      <sub>An extremely simple web-based calculator built with JavaScript. </sub>
+      <sub>An extremely simple web-based calculator. </sub>
       <br><br>
     </td>
   </tr>
