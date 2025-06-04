@@ -73,7 +73,7 @@ I'm an Argentinian student pursuing a University-Level Programming Analyst Degre
         <b>Library</b>
       </a>
       <br>
-      <sub>A reading tracker to incentivize an important habit.</sub>
+      <sub> Trying to incentivize an important habit.</sub>
       <br><br>
     </td>
     <td align="center" width="220">
