@@ -1,6 +1,6 @@
 # 🟢 Hi there, I'm Jesús! 🟢
 
-![image1](image1)
+![deku](https://github.com/user-attachments/assets/3bd9745c-950d-4b57-874d-733796993c89)
 
 Welcome to my GitHub profile!
 I'm an Argentinian student pursuing a University-Level Programming Analyst Degree, striving to become a Cybersecurity Professional in the near future.
@@ -12,7 +12,7 @@ I'm an Argentinian student pursuing a University-Level Programming Analyst Degre
 - 🎓 **Studying** at the National University of La Plata.
 - 🛡️ **Aspiring Cybersecurity Professional**
 - 💡 **Highly Analytical, Empathic & Motivated**
-- 🇬🇧 **C2-level English (Cambridge certified)**
+- 📕 **C2-level English (Cambridge certified)**
 - 👨‍🏫 **Experience in Teaching & Technical Support**
 
 ---
