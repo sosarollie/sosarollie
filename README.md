@@ -1,67 +1,69 @@
-### <h2 align="center"> Hey there! </h2>
+# 🟢 Hi there, I'm Jesús! 🟢
 
--I'm Jesús, an Argentinian programming student 🇦🇷.
+![image1](image1)
 
-📚 Stack 
+Welcome to my GitHub profile!
+I'm an Argentinian student pursuing a University-Level Programming Analyst Degree, striving to become a Cybersecurity Professional in the near future.
+
 ---
-<ul>
-  <li>HTML5.</li>
-  
-  <li>CSS3.</li>
-  
-  <li>JavaScript.</li>
 
-  <li>Kotlin</li>
+## 🧑‍💻 About Me
 
-  <li>Linux</li>
+- 🎓 **Studying** at the National University of La Plata.
+- 🛡️ **Aspiring Cybersecurity Professional**
+- 💡 **Highly Analytical, Empathic & Motivated**
+- 🇬🇧 **C2-level English (Cambridge certified)**
+- 👨‍🏫 **Experience in Teaching & Technical Support**
 
-  <li>Java</li>
-</ul>
-
-
-🌱 Currently learning 
-  ---
-  <ul>
-    <li>Cybersecurity basics</li>
-  </ul>
-
-
-🔭 Learning next 
 ---
-<ul>
-  <li>Pentesting</li>
-  
-  <li>Blueteaming</li>
 
-</ul>
+## 🔧 Top Skills
 
+- **Programming:** JavaScript, Java, Kotlin, Bash
+- **Cybersecurity:** Cryptography, Networking, Offensive & Defensive Security Tools
+- **Networking:** Addressing, routing, and protocols
+- **Operating Systems:** Windows, Linux (Mint and Kali)
+- **Web Development:** HTML, CSS, Webpack
+- **Version Control:** Git & GitHub
 
-💬 Other interests 
 ---
-<ul>
-  <li>Android Development.</li>
-  
-  <li>Arduino.</li>
-  
-  <li>Esports.</li>
-</ul>
 
-📫 sosarolliedev@gmail.com
---
+## 🚀 Featured Projects
 
-Thanks for visiting my profile!
---
-<!--
-**sosarollie/sosarollie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻[CyberSec-Notes](https://github.com/sosarollie/CyberSec-Notes)  
+  All my notes, tools, and learning resources for cybersecurity.
 
-Here are some ideas to get you started:
+- 📚[Library](https://github.com/sosarollie/library)  
+  A reading tracker project to incentivize an important habit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕[vida_cafe](https://github.com/sosarollie/vida_cafe)  
+  A project built for a small coffee shop near me.
+
+---
+
+## 🏅 Badges & Stats
+
+![Cambridge C2 English](https://img.shields.io/badge/English-C2-blue?logo=googletranslate&logoColor=white)
+![Visitors](https://komarev.com/ghpvc/?username=sosarollie&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosarollie&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sosarollie&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sosarollie-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sosarollie/)
+
+---
+
+## 😄 Fun Facts
+
+- I'm really into History, love reading and learning about it.
+- Outside of code, you might find me exploring new music genres or revisiting the ones that I love.
+- Always up for a challenge and eager to collaborate!
+
+---
+
+Thanks for stopping by! ⭐️
+
+> **"Whatever you do, you won't do it partially."**
