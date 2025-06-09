@@ -17,7 +17,6 @@ I'm an Argentinian student pursuing a Computer Science Degree, striving to becom
 
 - 🎓 **Studying** at the National University of La Plata.
 - 🛡️ **Aspiring Cybersecurity Professional**
-- 💡 **Highly Analytical, Empathic & Motivated**
 - 📕 **C2-level English (Cambridge certified)**
 - 👨‍🏫 **Experience in Teaching & Technical Support**
 
